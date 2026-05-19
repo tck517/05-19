@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "upstream": "https://github.com/vibeacademy/agile-flow",
+  "installedAt": null,
+  "distribution": "template",
+  "syncDirectories": [
+    ".claude/agents",
+    ".claude/commands",
+    ".claude/hooks",
+    ".claude/skills",
+    "scripts",
+    "starters"
+  ]
+}
